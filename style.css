@@ -1,0 +1,34 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    background-image: url(https://th.bing.com/th/id/R.660c35b8a232a2a74de3f07452fe69ad?rik=P2jdTe6TzNFeuw&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fvdzssS4.jpg&ehk=Isuk9axf38kXAwkAL3DViyItdBvnZvnq1OnSO0uC3vk%3d&risl=&pid=ImgRaw&r=0);
+}
+
+header{
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
+section{
+    background: Blue(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+#til1 {
+    color: green;
+}
+#p1{
+    color: brown;
+}
+#title {
+    color: Blue;
+}
+#body2{
+    display: flex;
+    justify-content: center;
+}
